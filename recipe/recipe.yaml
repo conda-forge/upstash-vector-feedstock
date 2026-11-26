@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.8.0"
+  version: "0.8.1"
 
 package:
   name: upstash-vector
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/u/upstash-vector/upstash_vector-${{ version }}.tar.gz
-  sha256: cdeeeeabe08c813f0f525d9b6ceefbf17abb720bd30190cd6df88b9f2c318334
+  sha256: 8c224a28d2e7e6909b3ad83d04bd243ae5caaf1022a6f63f3f19bfd12783819c
 
 build:
   number: 0
